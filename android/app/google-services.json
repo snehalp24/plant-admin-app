@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "665057192604",
+    "firebase_url": "https://plantip-b574b-default-rtdb.firebaseio.com",
+    "project_id": "plantip-b574b",
+    "storage_bucket": "plantip-b574b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665057192604:android:c33994664dae60a6af5b59",
+        "android_client_info": {
+          "package_name": "com.hdgroup.adminapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665057192604-hlha89m8fbtt4bo61k91oju5d6tl3qf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0857sarPfOlEY8oFU0aUJrnFLHZl-N6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665057192604-hlha89m8fbtt4bo61k91oju5d6tl3qf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665057192604:android:ba7b8caaace894e6af5b59",
+        "android_client_info": {
+          "package_name": "com.hdgroup.plantip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665057192604-hlha89m8fbtt4bo61k91oju5d6tl3qf1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0857sarPfOlEY8oFU0aUJrnFLHZl-N6o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665057192604-hlha89m8fbtt4bo61k91oju5d6tl3qf1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
